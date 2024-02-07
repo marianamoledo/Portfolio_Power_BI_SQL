@@ -2,7 +2,7 @@
 
 # Sobre Mim
 
-Olá! Meu nome é Mariana Moledo e tenho uma verdadeira paixão pelo mundo dos dados e pela sua capacidade de fornecer insights valiosos e impactantes. Abaixo, compartilho alguns dos meus projetos relacionados a Power BI e SQL:
+Olá! Meu nome é Mariana Moledo e tenho uma verdadeira paixão pelo mundo dos dados e pela sua capacidade de fornecer insights valiosos e impactantes. Abaixo, compartilho alguns dos meus projetos relacionados a Power BI e SQL.
 
 ## Projetos no Power BI
 
