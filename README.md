@@ -19,7 +19,7 @@ Olá! Meu nome é Mariana Moledo e tenho uma verdadeira paixão pelo mundo dos d
 
 ## Projetos no Power BI
 
-### [**Dashboard de NPS 📊😃😐☹️**](https://github.com/Eduardoppereira/PBI_ORCAMENTO/tree/main)
+### [**Dashboard de NPS 📊😃😐☹️**](https://app.powerbi.com/view?r=eyJrIjoiYzc2NjAxYzUtYjNiYi00YjM2LWEwZjEtNzczMDE0M2UxZTNlIiwidCI6IjI4MTgxNWViLWUwYjgtNGY2Yi1iMmRjLTBiY2U1ODQwMDI5NiJ9)
  - **O Dashboard de Resultado de Pesquisa de NPS (Net Promoter Score) foi elaborado para visualizar os dados coletados de pesquisas de NPS. Oferece uma visão abrangente e detalhada das respostas dos clientes, permitindo que as empresas compreendam melhor o feedback recebido e identifiquem áreas para melhoria.**
 [Clique aqui para obter mais detalhes do projeto](https://github.com/marianamoledo/PowerBI_Pesquisa_NPS/tree/main)
    
